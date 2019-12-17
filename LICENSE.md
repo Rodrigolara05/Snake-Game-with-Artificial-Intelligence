@@ -1,4 +1,4 @@
-﻿Licencia MIT
+﻿MIT License
 
 Copyright (c) 2019 Rodrigo Max Lara Camarena
 
