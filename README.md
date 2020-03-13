@@ -37,7 +37,9 @@ Si deseas conocer la creación paso a paso del sistema, una explicación mas det
   Base de Datos,
   Programación en nuevas tecnologias,
   Y mas!
-  
+    
+* **Snake Game con Inteligencia Artificial** -  [Enlace](https://youtu.be/MKwFE0hL3xg)
+
 ## Enlace 🔗
 
 * **Codigo Fuente** -  [Codigo Fuente](https://www.youtube.com/codigofuente)
