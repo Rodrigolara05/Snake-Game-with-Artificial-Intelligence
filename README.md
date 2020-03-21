@@ -38,7 +38,7 @@ Si deseas conocer la creación paso a paso del sistema, una explicación mas det
   Programación en nuevas tecnologias,
   Y mas!
     
-* **Snake Game con Inteligencia Artificial** -  [Enlace](https://youtu.be/MKwFE0hL3xg)
+* **Flutter UI: Desarrollando Twitter desde cero** -  [Enlace](https://www.youtube.com/watch?v=Sek8ZVr4IWY&feature=youtu.be)
 
 ## Enlace 🔗
 
